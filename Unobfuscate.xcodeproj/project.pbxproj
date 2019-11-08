@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		43B22EAF237601A900B9552D /* Unonfuscate */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Unonfuscate; sourceTree = BUILT_PRODUCTS_DIR; };
+		43B22EAF237601A900B9552D /* Unobfuscate */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Unobfuscate; sourceTree = BUILT_PRODUCTS_DIR; };
 		43B22EB2237601A900B9552D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		43B22EA6237601A900B9552D = {
 			isa = PBXGroup;
 			children = (
-				43B22EB1237601A900B9552D /* Unonfuscate */,
+				43B22EB1237601A900B9552D /* Unobfuscate */,
 				43B22EB0237601A900B9552D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		43B22EB0237601A900B9552D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				43B22EAF237601A900B9552D /* Unonfuscate */,
+				43B22EAF237601A900B9552D /* Unobfuscate */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		43B22EB1237601A900B9552D /* Unonfuscate */ = {
+		43B22EB1237601A900B9552D /* Unobfuscate */ = {
 			isa = PBXGroup;
 			children = (
 				43B22EB2237601A900B9552D /* main.swift */,
 			);
-			path = Unonfuscate;
+			path = Unobfuscate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		43B22EAE237601A900B9552D /* Unonfuscate */ = {
+		43B22EAE237601A900B9552D /* Unobfuscate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 43B22EB6237601A900B9552D /* Build configuration list for PBXNativeTarget "Unonfuscate" */;
+			buildConfigurationList = 43B22EB6237601A900B9552D /* Build configuration list for PBXNativeTarget "Unobfuscate" */;
 			buildPhases = (
 				43B22EAB237601A900B9552D /* Sources */,
 				43B22EAC237601A900B9552D /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Unonfuscate;
+			name = Unobfuscate;
 			productName = Unonfuscate;
-			productReference = 43B22EAF237601A900B9552D /* Unonfuscate */;
+			productReference = 43B22EAF237601A900B9552D /* Unobfuscate */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 43B22EAA237601A900B9552D /* Build configuration list for PBXProject "Unonfuscate" */;
+			buildConfigurationList = 43B22EAA237601A900B9552D /* Build configuration list for PBXProject "Unobfuscate" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				43B22EAE237601A900B9552D /* Unonfuscate */,
+				43B22EAE237601A900B9552D /* Unobfuscate */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		43B22EAA237601A900B9552D /* Build configuration list for PBXProject "Unonfuscate" */ = {
+		43B22EAA237601A900B9552D /* Build configuration list for PBXProject "Unobfuscate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43B22EB4237601A900B9552D /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		43B22EB6237601A900B9552D /* Build configuration list for PBXNativeTarget "Unonfuscate" */ = {
+		43B22EB6237601A900B9552D /* Build configuration list for PBXNativeTarget "Unobfuscate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43B22EB7237601A900B9552D /* Debug */,

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Unonfuscate.xcodeproj">
+      location = "self:/Users/pmcmah200/git/Unonfuscate/Unobfuscate.xcodeproj">
    </FileRef>
 </Workspace>
